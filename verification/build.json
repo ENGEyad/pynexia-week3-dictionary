@@ -1,0 +1,7 @@
+{
+  "module": "dictionary",
+  "assembleDebug": "passed",
+  "automated_tests": "not run",
+  "lint_errors": 0,
+  "lint_warnings": 21
+}

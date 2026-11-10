@@ -1,0 +1,11 @@
+Native Android Dictionary App built with Java, XML and Retrofit. Looks up English words through the Free Dictionary REST API and parses JSON entries.
+
+Displays definitions, parts of speech, examples, synonyms and phonetics when present. Play audio starts a returned pronunciation file when available. Recent successful searches are stored locally.
+
+Run the dictionary module in Android Studio with JDK 17/21 and Android SDK 35 on Android 8.0/API 26 or later. Internet access is needed.
+
+Build: assembleDebug passed. Automated tests were not run. Lint findings are included in the repository and report.
+
+API content varies by word. Some entries may not include examples, synonyms or audio.
+
+Hosted page includes the APK, source archive, report and screenshots.
