@@ -4,7 +4,7 @@ Search English vocabulary for meanings, parts of speech, pronunciation, audio an
 
 Pynexia Android Development / Week 3.
 
-[Hosted showcase](https://engeyad.github.io/pynexia-week3-dictionary/) · [PDF report](https://github.com/ENGEyad/pynexia-week3-dictionary/releases/latest/download/Dictionary-App-Report.pdf) · [APK](https://github.com/ENGEyad/pynexia-week3-dictionary/releases/latest/download/Dictionary-App.apk) · [Source ZIP](https://github.com/ENGEyad/pynexia-week3-dictionary/releases/latest/download/Dictionary-App.zip)
+[Hosted showcase](https://engeyad.github.io/pynexia-week3-dictionary/) · [PDF report](https://github.com/ENGEyad/pynexia-week3-dictionary/releases/latest/download/Dictionary-App-Report.pdf) · [APK](https://github.com/ENGEyad/pynexia-week3-dictionary/releases/latest/download/dictionary-debug.apk) · [Source ZIP](https://github.com/ENGEyad/pynexia-week3-dictionary/releases/latest/download/Dictionary-App.zip)
 
 ## Implementation
 
